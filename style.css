@@ -1,0 +1,35 @@
+
+.header{
+background-color:#F67280;
+font-family: arial;
+font-size: 20px;
+font-stretch: wider;
+display:flex;
+justify-content: space-between ;
+color:#F8B195;
+
+}
+
+.grid{
+background-color:#C06C84;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+color:#F8B195 ;
+}
+
+.footer{
+background-color: #6C5B7B ;
+display: flex;
+justify-content: flex-end;
+color:#F8B195 ; 
+}
+
+p,h2{
+text-align: center;
+color:#F8B195 ;
+}
+
+body{
+background-color:#355C7D;
+}
